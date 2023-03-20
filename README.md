@@ -28,7 +28,8 @@ This is a Python script that automatically deletes files in your download folder
 
 Contributions are welcome! If you find any issues with the script or have ideas for improvements, please open an issue or a pull request.
 
-##Credits
+## Credits
+
 Credit goes to Tiff In Tech for the original idea and code.
 
 ## License
