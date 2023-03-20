@@ -14,7 +14,7 @@ This is a Python script that automatically deletes files in your download folder
 
 ## Usage
 
-1. Open the `clean_downloads.py` file in your preferred text editor.
+1. Open the `DownloadFolderMaid.py` file in your preferred text editor.
 
 2. Edit the `DOWNLOADS_PATH` variable to specify the path to your download folder.
 
