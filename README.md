@@ -1,6 +1,6 @@
 # Automatic Download Folder Cleaner
 
-This is a Python script that automatically deletes files in your download folder that are older than one week. It is useful for keeping your download folder organized and preventing it from getting cluttered with old and unnecessary files.
+This is a Python script that automatically deletes files in your download folder that are older than one week. It is useful for keeping your download folder organized and preventing it from getting cluttered with old and unnecessary files. I added this to my Windows Task Scheduler to run daily.
 
 ## Installation
 
