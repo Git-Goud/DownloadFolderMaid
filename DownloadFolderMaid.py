@@ -2,7 +2,7 @@ import os
 import time
 
 #Download Folder Location
-download_folder = "C:/Users/Kristen/Downloads/"
+download_folder = "DOWNLOADS_PATH"
 
 # Get the current time
 current_time = time.time()
