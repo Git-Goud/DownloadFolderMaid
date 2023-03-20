@@ -1,10 +1,3 @@
-#Python Download Folder Cleaner
-This Python program removes files from the download folder that are a week old.
-
-##Installation
-Clone the repository.
-Install the required packages using pip install -r requirements.txt.
-
 # Automatic Download Folder Cleaner
 
 This is a Python script that automatically deletes files in your download folder that are older than one week. It is useful for keeping your download folder organized and preventing it from getting cluttered with old and unnecessary files.
